@@ -1,4 +1,12 @@
 Respuestas:
+a) Para actualizar mi repositorio al estado del repo original de BETA, debo agregar el remoto "upstream" apuntando al repo de BETA, luego hacer fetch y merge de los cambios, y finalmente push a mi fork o al repo de BETA si tengo permisos.
+Comandos:
+git remote add upstream <URL_DEL_REPO_DE_BETA>
+git fetch upstream
+git merge upstream/main
+git push origin main
+
+b) ALFA no puede actualizar su fork directamente con el fork de GAMMA, solo puede hacerlo desde el repo original de BETA.
 
 c- si, GAMMA puede actualizar el fork
 d- no, no se pierden
