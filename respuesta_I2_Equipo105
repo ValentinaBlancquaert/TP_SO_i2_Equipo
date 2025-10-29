@@ -2,3 +2,15 @@ Respuestas:
 
 c- si, GAMMA puede actualizar el fork
 d- no, no se pierden
+
+
+git clone (link del repositorio)
+cd (nombre del archivo)
+echo "texto" > (nuevo archivo)
+git add (nombre del archivo creado)
+git commit -m"comentario"
+git push
+
+Lisandro Nuñez
+Valentina Blancquaert
+Gonzalo Corpus
