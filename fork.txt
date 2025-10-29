@@ -2,3 +2,6 @@ Nombre y apellido: Gonzalo Corpus
 IP: 192.168.1.25
 Hora: 12:50
 
+Lisandro Nuñez
+ip: 190.168.1.0
+Hora: 13:35
